@@ -1,6 +1,6 @@
 # Les blocs de code
 
-Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmation ou surligner un code source. Plus que de simple pragraphe, les lignes de code d'un bloc de code sont litterallement interprétées.
+Pre-formatted code blocks are used to write programming or highlight source code. More than a simple pragma, the lines of code of a block of code are literally interpreted.
 
 Voici un exemple :
 
